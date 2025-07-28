@@ -1,0 +1,31 @@
+[
+  {
+    "username": "opcar21@gmail.com",
+    "password": "Opencart@123",
+	"res": "Invalid"
+  },
+  {
+    "username": "opencart24@gmail.com",
+    "password": "opcar12",
+	"res": "Invalid"
+
+  },
+  {
+    "username": "opencart24@gmail.com",
+    "password":"Opencart@123" ,
+	"res": "valid"
+
+  },
+  {
+    "username": "caropen@gmail.com",
+    "password":"op123",
+	"res": "Invalid"
+
+  },
+  {
+    "username": "opencar@gmail.com",
+    "password": "fre213",
+	"res": "Invalid"
+
+  }
+]
