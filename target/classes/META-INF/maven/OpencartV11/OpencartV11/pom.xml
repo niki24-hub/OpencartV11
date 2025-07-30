@@ -20,10 +20,10 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.5.3</version>
           <configuration>
-        <suiteXmlFiles>
-          <suiteXmlFile>master.xml</suiteXmlFile>
-        </suiteXmlFiles>
-      </configuration>
+          <SuiteXmlFiles>
+          <suiteXmlFile>master.xml</suiteXmlFile>        
+          </SuiteXmlFiles>
+          </configuration>
          </plugin>
         
       </plugins>

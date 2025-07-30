@@ -12,9 +12,11 @@
     <parameter name="browser" value="chrome"></parameter>
 
     <classes>
-   <class name="testCases.TC001_AcctRegTest"/> 
+<!--    <class name="testCases.TC001_AcctRegTest"/> -->
   <!-- <class name="testCases.TC002_LoginTest"/> -->
- <!-- <class name="testCases.TC003_DataDrivenThroughJSON"/> -->
+ <!--   <class name="testCases.TC004_SearchTest"/> -->
+ <!-- <class name="testCases.TC005_AddToCart"/ > -->
+ <class name="testCases.TC006_Checkoutoperation"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
