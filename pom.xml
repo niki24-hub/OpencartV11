@@ -6,7 +6,7 @@
   
   
   <build>
-    <pluginManagement>
+    
       <plugins>
       
         <plugin>
@@ -20,14 +20,14 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.5.3</version>
           <configuration>
-          <SuiteXmlFiles>
+          <suiteXmlFiles>
           <suiteXmlFile>master.xml</suiteXmlFile>        
-          </SuiteXmlFiles>
+          </suiteXmlFiles>
           </configuration>
          </plugin>
         
       </plugins>
-    </pluginManagement>
+    
   </build>
   
   <dependencies>

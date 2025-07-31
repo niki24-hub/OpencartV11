@@ -1,8 +1,12 @@
+pageObjects/checkOutPage.class
+testCases/TC005_AddToCart.class
+pageObjects/SearchPage.class
 pageObjects/basePage.class
 utilities/ProductData.class
 utilities/ExtentReportManager.class
 testBase/BaseClass.class
 pageObjects/homePage.class
+testCases/TC004_SearchTest.class
 pageObjects/loginPage.class
 pageObjects/accregPage.class
 utilities/ProductDataReader.class
@@ -10,5 +14,7 @@ pageObjects/myAccountPage.class
 testCases/TC003_DataDrivenThroughJSON.class
 utilities/DataProviderClass$1.class
 testCases/TC001_AcctRegTest.class
+testCases/TC006_Checkoutoperation.class
 testCases/TC002_LoginTest.class
 utilities/DataProviderClass.class
+pageObjects/ShoppingCartPage.class

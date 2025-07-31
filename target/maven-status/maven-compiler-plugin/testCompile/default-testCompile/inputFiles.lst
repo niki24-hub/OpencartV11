@@ -1,5 +1,8 @@
+/Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/SearchPage.java
+/Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/ShoppingCartPage.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/accregPage.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/basePage.java
+/Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/checkOutPage.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/homePage.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/loginPage.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/pageObjects/myAccountPage.java
@@ -7,6 +10,9 @@
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/testCases/TC001_AcctRegTest.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/testCases/TC002_LoginTest.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/testCases/TC003_DataDrivenThroughJSON.java
+/Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/testCases/TC004_SearchTest.java
+/Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/testCases/TC005_AddToCart.java
+/Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/testCases/TC006_Checkoutoperation.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/utilities/DataProviderClass.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/utilities/ExtentReportManager.java
 /Users/nikidhimmar/eclipse-workspace/OpencartV11/src/test/java/utilities/ProductData.java
